@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/klick/clientlibs"/>
+    <filter root="/apps/klick/components"/>
+    <filter root="/apps/klick/i18n"/>
+</workspaceFilter>
